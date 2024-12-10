@@ -1,2 +1,2 @@
 # Minor-Project
-Firstly open the login page 
+First open the login page 
